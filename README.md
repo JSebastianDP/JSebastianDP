@@ -174,21 +174,11 @@
     <a
       target="_blank"
       rel="noopener noreferrer"
-      href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"
-      ><img
-        src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg"
-        title="Git"
-        width="40"
-        height="40"
-        style="max-width: 100%"
-    /></a>
-    <a
-      target="_blank"
-      rel="noopener noreferrer"
       href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
       ><img
         src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg"
-        title="Git"
+        title="Python"
+        alt="Python"
         width="40"
         height="40"
         style="max-width: 100%"
