@@ -206,5 +206,5 @@
 stats](https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react)
 
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSebastianDP&hide_progress=true)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSebastianDP&hide_progress=false)
 
