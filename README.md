@@ -66,6 +66,30 @@
     <a
       target="_blank"
       rel="noopener noreferrer"
+      href="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg"
+      ><img
+        src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg"
+        title="Azure"
+        alt="Azure"
+        width="40"
+        height="40"
+        style="max-width: 100%"
+    /></a>
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg"
+      ><img
+        src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg"
+        title="Figma"
+        alt="Figma"
+        width="40"
+        height="40"
+        style="max-width: 100%"
+    /></a>
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
       href="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
       ><img
         src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
@@ -95,6 +119,18 @@
         src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg"
         title="MySQL"
         alt="MySQL"
+        width="40"
+        height="40"
+        style="max-width: 100%"
+    /></a>
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"
+      ><img
+        src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"
+        title="MongoDB"
+        alt="MongoDB"
         width="40"
         height="40"
         style="max-width: 100%"
