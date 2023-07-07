@@ -200,5 +200,4 @@
 
 📊 Estadísticas 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=graywhite&hide_border=true&locale=es&card_width=503)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=catppuccin-latte&hide_border=true&locale=es&card_width=503)](https://git.io/streak-stats)
