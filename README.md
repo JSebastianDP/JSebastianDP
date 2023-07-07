@@ -6,8 +6,8 @@
 
   <h1 align="center">Bienvenido 👋, Soy Sebastian Diaz 🙂</h1>
   <h3>
-    Soy una persona apasionada por la programación, me encuentro en Bogotá,
-    Colombia.
+    Soy una persona apasionada por la programación, tengo 19 años y me encuentro
+    en Bogotá, Colombia.
   </h3>
 </div>
 
