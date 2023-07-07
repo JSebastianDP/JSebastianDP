@@ -201,3 +201,7 @@
 📊 Estadísticas 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=catppuccin-latte&hide_border=true&locale=es&card_width=503)](https://git.io/streak-stats)
+
+
+![JSebastianDP GitHub
+stats](https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react)
