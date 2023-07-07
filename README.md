@@ -200,7 +200,6 @@
 
 📊 Estadísticas 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=city-lights&hide_border=true&locale=es&exclude_days=Sun&card_width=503)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=ocean-gradient&hide_border=true&locale=es&card_width=503)](https://git.io/streak-stats)
 
 
