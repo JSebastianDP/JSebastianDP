@@ -147,6 +147,17 @@
         height="40"
         style="max-width: 100%"
     /></a>
+      <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="[https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)"
+      ><img
+        src="[https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)"
+        title="GitHub"
+        width="40"
+        height="40"
+        style="max-width: 100%"
+    /></a>
     <a
       target="_blank"
       rel="noopener noreferrer"
