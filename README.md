@@ -152,7 +152,8 @@
       href="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"
       ><img
         src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg"
-        title="Git"
+        title="PHP"
+        alt="PHP"
         width="40"
         height="40"
         style="max-width: 100%"
@@ -163,7 +164,8 @@
       href="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
       ><img
         src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg"
-        title="Git"
+        title="Laravel"
+        alt="Laravel"
         width="40"
         height="40"
         style="max-width: 100%"
