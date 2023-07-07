@@ -24,10 +24,9 @@
 - 📫 Cómo contactarme en gmail: sebastiandiaz28001@gmail.com , o en  WhatsApp: +57 3227254103
 - ⚡ Dato Curioso: Soy tecnólogo en Análisis y desarrollo de Sistemas de información.
 ---
-
 <div align="left">
   <h3>🔨 Lenguajes y Herramientas:</h3>
-    <div dir="auto">
+  <div dir="auto">
     <a
       target="_blank"
       rel="noopener noreferrer"
@@ -38,8 +37,8 @@
         alt="HTML"
         width="40"
         height="40"
-        style="max-width: 100%" /></a
-    >
+        style="max-width: 100%"
+    /></a>
     <a
       target="_blank"
       rel="noopener noreferrer"
@@ -50,8 +49,8 @@
         alt="CSS"
         width="40"
         height="40"
-        style="max-width: 100%" /></a
-    >
+        style="max-width: 100%"
+    /></a>
     <a
       target="_blank"
       rel="noopener noreferrer"
@@ -62,20 +61,20 @@
         alt="JavaScript"
         width="40"
         height="40"
-        style="max-width: 100%" /></a
-    >
+        style="max-width: 100%"
+    /></a>
     <a
       target="_blank"
       rel="noopener noreferrer"
-      href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+      href="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
       ><img
-        src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg"
-        title="React"
-        alt="React"
+        src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
+        title="Java"
+        alt="Java"
         width="40"
         height="40"
-        style="max-width: 100%" /></a
-    >
+        style="max-width: 100%"
+    /></a>
     <a
       target="_blank"
       rel="noopener noreferrer"
@@ -86,20 +85,8 @@
         alt="Bootstrap"
         width="40"
         height="40"
-        style="max-width: 100%" /></a
-    >
-    <a
-      target="_blank"
-      rel="noopener noreferrer"
-      href="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
-      ><img
-        src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg"
-        title="Sass"
-        alt="Sass"
-        width="40"
-        height="40"
-        style="max-width: 100%" /></a
-    >
+        style="max-width: 100%"
+    /></a>
     <a
       target="_blank"
       rel="noopener noreferrer"
@@ -110,8 +97,8 @@
         alt="MySQL"
         width="40"
         height="40"
-        style="max-width: 100%" /></a
-    >
+        style="max-width: 100%"
+    /></a>
     <a
       target="_blank"
       rel="noopener noreferrer"
@@ -169,4 +156,5 @@
     /></a>
   </div>
 </div>
+
 
