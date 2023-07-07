@@ -17,8 +17,7 @@
 -->
 
 ---
-<h1>Sobre Mí 😁</h1>
-<br>
+### Sobre Mí 😁 
 - 🌱 Actualmente estoy aprendiendo sobre Microsoft Azure, Powershell, Power BI y Python.
 - 👯 Busco colaborar en proyectos que me ayuden a crecer profesionalmente.
 - 💬 Pregúntame sobre Java, PHP, JavaScript, CSS, HTML o Laravel.
