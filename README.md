@@ -198,10 +198,9 @@
 </a>
 
 <a href="(https://git.io/streak-stats)">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react" />
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&show_icons=true&theme=react" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=react)](https://git.io/streak-stats)
 
 
 
