@@ -192,9 +192,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=react)](https://git.io/streak-stats)
 
-![JSebastianDP GitHub
-stats](https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react)
-
 <a href="https://github.com/JSebastianDP/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react" />
 </a>
