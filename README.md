@@ -198,4 +198,4 @@ stats](https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_ico
 ![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSebastianDP&hide_progress=false)
 
-[![JSebastianDP wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSebastianDP)](https://github.com/anuraghazra/github-readme-stats)
+
