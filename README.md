@@ -206,9 +206,10 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSebastian
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/JSebastianDP/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JSebastianDP&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JSebastianDP" />
 </a>
 <a href="https://github.com/JSebastianDP/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JSebastianDP&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JSebastianDP" />
 </a>
+
 
