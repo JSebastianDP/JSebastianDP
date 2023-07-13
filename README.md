@@ -196,7 +196,7 @@
 stats](https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react)
 
 <a href="https://github.com/JSebastianDP/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/JSebastianDP/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=320" />
