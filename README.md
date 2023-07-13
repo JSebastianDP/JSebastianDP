@@ -195,10 +195,6 @@
 ![JSebastianDP GitHub
 stats](https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react)
 
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSebastianDP&hide_progress=false)
-
-
 <a href="https://github.com/JSebastianDP/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP" />
 </a>
