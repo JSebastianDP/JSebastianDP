@@ -189,7 +189,6 @@
 ---
 
 📊 Estadísticas 
-<!-- 
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex;">
@@ -209,25 +208,6 @@
     </a>
   </div>
 </div>
--->
-
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/JSebastianDP/github-readme-stats" style="flex: 0 0 300px; height: 50%;">
-    <img style="width: 30%; height: 50%;" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react" />
-  </a>
-  <a href="https://github.com/JSebastianDP/convoychat" style="flex: 0 0 300px; height: 50%;">
-    <img style="width: 30%; height: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&theme=react" />
-  </a>
-  </div>
-  
-  ---
-  
-  <a href="https://git.io/streak-stats" style="flex: 0 0 300px; height: 50%">
-    <img style="width: 30%; height: 50%;" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=react" />
-  </a>
-  <a href="https://github.com/JSebastianDP/github-readme-activity-graph" style="flex: 0 0 300px; height: 70%">
-    <img style="width: 30%; height: 70%;" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&theme=react" />
-  </a>
 
 
 
