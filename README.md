@@ -212,11 +212,11 @@
 -->
 
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/JSebastianDP/github-readme-stats" style="flex: 0 0 300px; height: 200px;">
-    <img style="width: 30%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react" />
+  <a href="https://github.com/JSebastianDP/github-readme-stats" style="flex: 0 0 300px; height: 50%;">
+    <img style="width: 30%; height: 50%;" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react" />
   </a>
-  <a href="https://github.com/JSebastianDP/convoychat" style="flex: 0 0 300px; height: 200px;">
-    <img style="width: 30%; height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react" />
+  <a href="https://github.com/JSebastianDP/convoychat" style="flex: 0 0 300px; height: 50%;">
+    <img style="width: 30%; height: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react" />
   </a>
   </div>
   
