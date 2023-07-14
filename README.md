@@ -201,7 +201,7 @@
 </a>
 
 <a href="(https://github.com/JSebastianDP/github-readme-activity-graph)">
-  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&theme=react&layout=compact&langs_count=8&card_width=100&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&layout=compact&langs_count=8&card_width=467&show_icons=true&theme=react" />
 </a>
 
 
