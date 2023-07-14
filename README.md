@@ -210,18 +210,22 @@
 
 -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="https://github.com/JSebastianDP/github-readme-stats" style="flex-basis: 48%; width: 300px; height: 200px;">
-    <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react" />
-  </a>
-  <a href="https://github.com/JSebastianDP/convoychat" style="flex-basis: 48%; width: 300px; height: 200px;">
-    <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react" />
-  </a>
-  <a href="https://git.io/streak-stats" style="flex-basis: 48%; width: 300px; height: 200px;">
-    <img style="width: 100%; height: 100%;" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&layout=compact&langs_count=8&card_width=467&show_icons=true&theme=react" />
-  </a>
-  <a href="https://github.com/JSebastianDP/github-readme-activity-graph" style="flex-basis: 48%; width: 300px; height: 200px;">
-    <img style="width: 100%; height: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&layout=compact&langs_count=8&card_width=100&show_icons=true&theme=react" />
-  </a>
+  <div style="display: flex;">
+    <a href="https://github.com/JSebastianDP/github-readme-stats" style="flex-basis: 48%; width: 300px; height: 200px;">
+      <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react" />
+    </a>
+    <a href="https://github.com/JSebastianDP/convoychat" style="flex-basis: 48%; width: 300px; height: 200px;">
+      <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react" />
+    </a>
+  </div>
+  <div style="display: flex;">
+    <a href="https://git.io/streak-stats" style="flex-basis: 48%; width: 300px; height: 200px;">
+      <img style="width: 100%; height: 100%;" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&layout=compact&langs_count=8&card_width=467&show_icons=true&theme=react" />
+    </a>
+    <a href="https://github.com/JSebastianDP/github-readme-activity-graph" style="flex-basis: 48%; width: 300px; height: 200px;">
+      <img style="width: 100%; height: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&layout=compact&langs_count=8&card_width=100&show_icons=true&theme=react" />
+    </a>
+  </div>
 </div>
 
 ---
