@@ -223,7 +223,7 @@
   ---
   
   <a href="https://git.io/streak-stats" style="flex: 0 0 300px; height: 500px;">
-    <img style="width: 30%; height: 100%;" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=react" />
+    <img style="width: 30%; height: 500px;" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=react" />
   </a>
   <a href="https://github.com/JSebastianDP/github-readme-activity-graph" style="flex: 0 0 300px; height: 200px;">
     <img style="width: 30%; height: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&theme=react" />
