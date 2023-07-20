@@ -6,8 +6,7 @@
 
   <h1 align="center">Bienvenido 👋, Soy Juan Sebastian Diaz Parra 🙂</h1>
   <h3>
-    Soy una persona apasionada por la programación, tengo 19 años y me encuentro
-    en Bogotá, Colombia.
+    Soy una persona apasionada por la programación, queriendo aprender sobre todo tipo de tecnologías qué me ayuden a crecer profesionalmente.
   </h3>
 </div>
 
