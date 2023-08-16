@@ -191,7 +191,7 @@
 <div>
 
 <a href="https://github.com/JSebastianDP/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=450&show_icons=true&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=420&show_icons=true&theme=react" />
 </a>
 <a href="(https://git.io/streak-stats)">
   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&layout=compact&langs_count=8&card_width=450&show_icons=true&theme=react" />
