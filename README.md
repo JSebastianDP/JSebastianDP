@@ -22,7 +22,6 @@
 - 👯 Busco colaborar en proyectos que me ayuden a crecer profesionalmente ya sea en grupo o individualmente.
 - 💬 Pregúntame sobre Java, PHP, JavaScript, CSS, HTML o Laravel.
 - 📫 Cómo contactarme en gmail: sebastiandiaz28001@gmail.com, o en  WhatsApp: +57 3227254103.
-- ⚡ Dato Curioso: Soy tecnólogo en Análisis y desarrollo de Sistemas de información.
 ---
 <div align="left">
   <h3>🔨 Lenguajes y Herramientas:</h3>
