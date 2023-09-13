@@ -194,9 +194,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=400px&show_icons=true&theme=react" />
 </a>
 
-<a href="https://github.com/JSebastianDP/convoychat">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=dracula)](https://git.io/streak-stats)
-</a>
 
 
   
