@@ -194,8 +194,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=400px&show_icons=true&theme=react" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=dracula)](https://git.io/streak-stats)
 
+<a href="https://github.com/JSebastianDP">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=algolia)](https://git.io/streak-stats)
+</a>
 
   
 </div>
