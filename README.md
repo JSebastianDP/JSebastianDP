@@ -196,8 +196,8 @@
 
 
 <a href="https://github.com/JSebastianDP">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=algolia)](https://git.io/streak-stats)
-</a>
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=algolia)](https://git.io/streak-stats" />
+  </a>
 
   
 </div>
