@@ -196,7 +196,7 @@
 
 
 <a href="https://github.com/JSebastianDP">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&theme=react)](https://git.io/streak-stats" height=200  width=200  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&&layout=compact&langs_count=8&card_width=400px&show_icons=true&theme=react)](https://git.io/streak-stats" />
   </a>
 
   
