@@ -20,7 +20,6 @@
 ### 👨‍💼 Sobre Mí 😁 
 - 🌱 Actualmente estoy aprendiendo sobre Microsoft Azure, Powershell, Power BI y Python.
 - 👯 Busco colaborar en proyectos que me ayuden a crecer profesionalmente ya sea en grupo o individualmente.
-- 💬 Pregúntame sobre Java, PHP, JavaScript, CSS, HTML o Laravel.
 - 📫 Cómo contactarme:  sebastiandiaz28001@gmail.com  o al WhatsApp  +57 3227254103.
 ---
 <div align="left">
